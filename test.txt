@@ -1,1 +1,1 @@
-this is a text file
+adding some stuff to the file from echo command
